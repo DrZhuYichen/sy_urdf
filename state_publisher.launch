@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-
 <launch>
 	<arg name="gui" default="True" />
   <param name="robot_description" textfile='$(find my_urdf)/src/test_robot.urdf' />
